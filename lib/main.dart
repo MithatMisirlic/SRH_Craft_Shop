@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:srhcraftshop/services/cart_provider.dart';
+import 'package:srhcraftshop/provider/cart_provider.dart';
 import 'login_screen.dart';
 import 'nav_screen.dart';
 import 'package:srhcraftshop/nav-pages/cart_page.dart'; // If you need direct navigation to cart
