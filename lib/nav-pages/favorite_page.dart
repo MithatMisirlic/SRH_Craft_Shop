@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:srhcraftshop/models/product_model.dart';
+
 //import 'package:srhcraftshop/services/favorite_provider.dart';
 import 'package:srhcraftshop/provider/favorite_provider.dart';
 
